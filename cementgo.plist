@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://m.ccement.com/app/file/cementgo.ipa?v=1.0.1</string>
+     <string>http://m.ccement.com/app/file/cementgo.ipa?md5=019C4D5BED0D6736D75360063478839B</string>
     </dict>
     <dict>
      <key>kind</key>
